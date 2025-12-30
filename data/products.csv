@@ -1,0 +1,131 @@
+id,naziv_proizvoda,kategorija,cijena
+1,Tipkovnica,Informatička oprema,25
+2,Vanjski tvrdi disk (1TB),Informatička oprema,60
+3,Monitor,Informatička oprema,150
+4,Miš,Informatička oprema,15
+5,Slušalice,Informatička oprema,30
+6,Miš,Informatička oprema,15
+7,Slušalice,Informatička oprema,30
+8,USB memorija (32GB),Informatička oprema,10
+9,Monitor,Informatička oprema,150
+10,USB memorija (32GB),Informatička oprema,10
+11,Miš,Informatička oprema,15
+12,Miš,Informatička oprema,15
+13,Miš,Informatička oprema,15
+14,Vanjski tvrdi disk (1TB),Informatička oprema,60
+15,Miš,Informatička oprema,15
+16,Monitor,Informatička oprema,150
+17,Slušalice,Informatička oprema,30
+18,Tipkovnica,Informatička oprema,25
+19,Vanjski tvrdi disk (1TB),Informatička oprema,60
+20,Slušalice,Informatička oprema,30
+21,Vanjski tvrdi disk (1TB),Informatička oprema,60
+22,Miš,Informatička oprema,15
+23,Monitor,Informatička oprema,150
+24,Slušalice,Informatička oprema,30
+25,Tipkovnica,Informatička oprema,25
+26,Tipkovnica,Informatička oprema,25
+27,Monitor,Informatička oprema,150
+28,Tipkovnica,Informatička oprema,25
+29,Tipkovnica,Informatička oprema,25
+30,Tipkovnica,Informatička oprema,25
+31,USB memorija (32GB),Informatička oprema,10
+32,Tipkovnica,Informatička oprema,25
+33,Monitor,Informatička oprema,150
+34,Slušalice,Informatička oprema,30
+35,Tipkovnica,Informatička oprema,25
+36,Miš,Informatička oprema,15
+37,USB memorija (32GB),Informatička oprema,10
+38,Monitor,Informatička oprema,150
+39,USB memorija (32GB),Informatička oprema,10
+40,USB memorija (32GB),Informatička oprema,10
+41,USB memorija (32GB),Informatička oprema,10
+42,Monitor,Informatička oprema,150
+43,USB memorija (32GB),Informatička oprema,10
+44,Slušalice,Informatička oprema,30
+45,Miš,Informatička oprema,15
+46,Tipkovnica,Informatička oprema,25
+47,Monitor,Informatička oprema,150
+48,Slušalice,Informatička oprema,30
+49,Tipkovnica,Informatička oprema,25
+50,Tipkovnica,Informatička oprema,25
+51,USB memorija (32GB),Informatička oprema,10
+52,Vanjski tvrdi disk (1TB),Informatička oprema,60
+53,Tipkovnica,Informatička oprema,25
+54,Monitor,Informatička oprema,150
+55,Miš,Informatička oprema,15
+56,USB memorija (32GB),Informatička oprema,10
+57,Miš,Informatička oprema,15
+58,Miš,Informatička oprema,15
+59,Tipkovnica,Informatička oprema,25
+60,Miš,Informatička oprema,15
+61,Miš,Informatička oprema,15
+62,Tipkovnica,Informatička oprema,25
+63,Tipkovnica,Informatička oprema,25
+64,Slušalice,Informatička oprema,30
+65,Monitor,Informatička oprema,150
+66,Tipkovnica,Informatička oprema,25
+67,Monitor,Informatička oprema,150
+68,Miš,Informatička oprema,15
+69,Slušalice,Informatička oprema,30
+70,Tipkovnica,Informatička oprema,25
+71,Miš,Informatička oprema,15
+72,Vanjski tvrdi disk (1TB),Informatička oprema,60
+73,Vanjski tvrdi disk (1TB),Informatička oprema,60
+74,USB memorija (32GB),Informatička oprema,10
+75,Monitor,Informatička oprema,150
+76,Slušalice,Informatička oprema,30
+77,Vanjski tvrdi disk (1TB),Informatička oprema,60
+78,Tipkovnica,Informatička oprema,25
+79,Slušalice,Informatička oprema,30
+80,Tipkovnica,Informatička oprema,25
+81,Miš,Informatička oprema,15
+82,Miš,Informatička oprema,15
+83,Slušalice,Informatička oprema,30
+84,Miš,Informatička oprema,15
+85,USB memorija (32GB),Informatička oprema,10
+86,Tipkovnica,Informatička oprema,25
+87,Miš,Informatička oprema,15
+88,Vanjski tvrdi disk (1TB),Informatička oprema,60
+89,Monitor,Informatička oprema,150
+90,Vanjski tvrdi disk (1TB),Informatička oprema,60
+91,Monitor,Informatička oprema,150
+92,Monitor,Informatička oprema,150
+93,Miš,Informatička oprema,15
+94,Miš,Informatička oprema,15
+95,Tipkovnica,Informatička oprema,25
+96,Slušalice,Informatička oprema,30
+97,Vanjski tvrdi disk (1TB),Informatička oprema,60
+98,Vanjski tvrdi disk (1TB),Informatička oprema,60
+99,Slušalice,Informatička oprema,30
+100,Vanjski tvrdi disk (1TB),Informatička oprema,60
+98,Vanjski tvrdi disk (1TB),Informatička oprema,60
+55,Miš,Informatička oprema,15
+74,USB memorija (32GB),Informatička oprema,10
+30,Tipkovnica,Informatička oprema,25
+53,Tipkovnica,Informatička oprema,25
+91,Monitor,Informatička oprema,150
+58,Miš,Informatička oprema,15
+57,Miš,Informatička oprema,15
+78,Tipkovnica,Informatička oprema,25
+65,Monitor,Informatička oprema,150
+111,Vanjski tvrdi disk (1TB),,60
+112,Miš,Informatička oprema,
+113,Vanjski tvrdi disk (1TB),,60
+114,Slušalice,Informatička oprema,
+115,Monitor,Informatička oprema,
+116,Miš,Informatička oprema,
+117,USB memorija (32GB),Informatička oprema,
+118,Tipkovnica,Informatička oprema,
+119,,Informatička oprema,30
+120,,Informatička oprema,15
+121, miš , informatička oprema ,15
+122, vanjski tvrdi disk (1tb) , informatička oprema ,60
+123, miš , informatička oprema ,15
+124, monitor , informatička oprema ,150
+125, usb memorija (32gb) , informatička oprema ,10
+126, slušalice , informatička oprema ,30
+127, vanjski tvrdi disk (1tb) , informatička oprema ,60
+128, slušalice , informatička oprema ,30
+129, slušalice , informatička oprema ,30
+130, tipkovnica , informatička oprema ,25
